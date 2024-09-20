@@ -1,0 +1,11 @@
+ .dashboard{
+    min-height: 100vh;
+    padding: 1.25rem; /* Changed from 20px */
+ }
+
+ .title{
+    font-size: 1.5rem; /* Changed from 24px */
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 0.625rem; /* Changed from 10px */
+ }
